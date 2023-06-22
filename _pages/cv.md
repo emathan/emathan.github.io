@@ -16,7 +16,7 @@ Education
 * MSc in Computer Science and Technology, University of Peloponnese, Tripoli, Department of Informatics and Telecommunications, 2016.
   * MSc Thesis: _Security of Wireless Communication against Passive Attacks at Physical Layer_ (Advisor: Nicholas Kolokotronis)
 * BSc in Computer Science and Telecommunications, National and Kapodistrian University of Athens, Department of Informatics and Telecommunications, 2013.
- *  BSc Thesis: _Study of extreme events in time-series, in terms of Complexity Theory_ (Advisor: Konstantinos Eytaxias, Dimitris Sybridis)
+  * BSc Thesis: _Study of extreme events in time-series, in terms of Complexity Theory_ (Advisor: Konstantinos Eytaxias, Dimitris Sybridis)
 
 Work experience
 ======
