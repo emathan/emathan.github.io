@@ -11,49 +11,53 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Computer Science and Telecommunications, National and Kapodistrian University of Athens, Department of Informatics and Telecommunications, 2022. 
+* MSc in Computer Science and Technology, University of Peloponnese, Tripoli, Department of Informatics and Telecommunications, 2016.
+* BSc in Computer Science and Telecommunications, National and Kapodistrian University of Athens, Department of Informatics and Telecommunications, 2013.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+*  Early Stage Researcher on development of Bayesian machine learning networks, aRTIFICIAL iNTELLIGENCE for the Deaf, H2020 Marie Curie RISE Project, 2022.
+*  Machine Learning consultant, 2023.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming skills
+  * Programming Languages : C, C++, C\#, Python, Java
+  * Databases (Implementation/Design/Use): MySQL
+  * Markup and Web : HTML, Javascript, PHP, node, jQuery, CSS
+  * Scientific Computing: Matlab, Origin Pro, NumPy, Gnuplot
+  * Scripting: bash programming, awk, sed
+* Computer skills
+  * Operating systems: Windows, Unix based (Mac OS X, Linux)
+  * Text Editors : MS Office/ Open Office, Latex, Vim
+  * Network monitoring: Nagios, OpenNMS
+  * Systems Analysis: UML, Case Tools
+
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  * M. Athanasakos, ``Secure Coding for the Gaussian Wiretap Channel with Sparse Regression Codes'', 55th Annual Conference on Information Sciences and Systems (CISS), USA, 2021.
+  * M. Athanasakos, ``Output Statistics of Random Binning for Multiple Access Channels and Strong Secrecy'', 2021 IEEE International Conference on Advanced Communication Technologies and Networking(CommNet), 2021.
+  * M. Athanasakos and G. Karagiannidis, `` Secure Polar Coding for the Primitive Relay Wiretap Channel'', in Entropy, Information-Theoretic Approach on security and Privacy, 2020.
+  * M. Athanasakos and G. Karagiannidis, `` Strong Secrecy for Relay Wiretap Channels with Polar Codes and Double-Chaining'', in IEEE GLOBECOM, Taiwan, 2020.
+  * M. Athanasakos and N. Kalouptsidis, `` Strong Secrecy for general multiple-access wiretap channels'', in BalkanCom, Skopia, 2019.
+  * N. Kolokotronis and M. Athanasakos, `` Improving Physical Layer Security in DF relaying via Two-Stage Cooperative jamming'', in EUSIPCO, Budapest, 2016.
+
+
+Sholarships and Awards
+=====
+Academic Scholarship for pursuing PhD, co-financed by Greece and the European Union (European Social Fund- ESF) through the Operational Programme ``Human Resources Development, Education and Lifelong Learning'', implemented by the State Scholarships Foundation (IKY).
+
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+   * Information Theory and Coding
+   * Reinforcement Learning and Stochastic Games
+
   
-Service and leadership
+Service 
 ======
-* Currently signed in to 43 different slack teams
+Regular Reviewer at: (IEEE Transactions on Communications, Access, Communication Letters, Journal of
+Communications and Networks, Entropy, GlobeCom, ISIT, ICC, CISS)
