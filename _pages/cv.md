@@ -20,22 +20,6 @@ Work experience
 *  Early Stage Researcher on development of Bayesian machine learning networks, aRTIFICIAL iNTELLIGENCE for the Deaf, H2020 Marie Curie RISE Project, 2022.
 *  Machine Learning consultant, 2023.
 
-
-Skills
-======
-* Programming skills
-  * Programming Languages : C, C++, C\#, Python, Java
-  * Databases (Implementation/Design/Use): MySQL
-  * Markup and Web : HTML, Javascript, PHP, node, jQuery, CSS
-  * Scientific Computing: Matlab, Origin Pro, NumPy, Gnuplot
-  * Scripting: bash programming, awk, sed
-* Computer skills
-  * Operating systems: Windows, Unix based (Mac OS X, Linux)
-  * Text Editors : MS Office/ Open Office, Latex, Vim
-  * Network monitoring: Nagios, OpenNMS
-  * Systems Analysis: UML, Case Tools
-
-
 Publications
 ======
   * M. Athanasakos, ``Secure Coding for the Gaussian Wiretap Channel with Sparse Regression Codes'', 55th Annual Conference on Information Sciences and Systems (CISS), USA, 2021.
@@ -61,3 +45,17 @@ Service
 ======
 Regular Reviewer at: (IEEE Transactions on Communications, Access, Communication Letters, Journal of
 Communications and Networks, Entropy, GlobeCom, ISIT, ICC, CISS)
+
+Skills
+======
+* Programming skills
+  * Programming Languages : C, C++, C\#, Python, Java
+  * Databases (Implementation/Design/Use): MySQL
+  * Markup and Web : HTML, Javascript, PHP, node, jQuery, CSS
+  * Scientific Computing: Matlab, Origin Pro, NumPy, Gnuplot
+  * Scripting: bash programming, awk, sed
+* Computer skills
+  * Operating systems: Windows, Unix based (Mac OS X, Linux)
+  * Text Editors : MS Office/ Open Office, Latex, Vim
+  * Network monitoring: Nagios, OpenNMS
+  * Systems Analysis: UML, Case Tools
