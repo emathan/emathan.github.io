@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-#Information and Decision Making - IDEM
+##Information and Decision Making - IDEM
 
 Outline: This research undertakes fundamental research in applied mathematics at the intersection of information theory, 
 game theory and machine learning. Specifically, a dynamic zero-sum game-theoretic model is proposed for the machine learning applications, 
@@ -18,7 +18,7 @@ This research is supported by the Exploratory Action of INRIA.
 Collaborator: Dr. Samir M. Perlaza, Dr. Alain Jean-Marie
 
 
-#aRTIFICIAL iNTELLIGENCE for the Deaf - aID
+##aRTIFICIAL iNTELLIGENCE for the Deaf - aID
 
 Outline: This research undertakes undertakes to elaborate the development of Bayesian ML networks, development of new compression methods and
 algorithms for Bayesian ML techniques based on information theoretic arguments.
