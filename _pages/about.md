@@ -14,6 +14,6 @@ His research interests fall in the broad area of Information theory and Game the
 
 **Contact**
 =====
-*2004, route des Lucioles BP 93, 06902 Sophia Antipolis Cedex
-*Équipe NEO, Bâtiment Lagrange, Office: L131
-*emathan@inria.fr
+<br 2004, route des Lucioles BP 93, 06902 Sophia Antipolis Cedex/>
+<brÉquipe NEO, Bâtiment Lagrange, Office: L131/>
+<bremathan@inria.fr/>
