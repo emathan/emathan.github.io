@@ -13,9 +13,7 @@ Emmanouil-Marios Athanasakos is a Postdoctoral Researcher at the National Instit
 His research interests fall in the broad area of Information theory and Game theory, with emphasis in secure coding for communications and statistical learning. He serves as a reviewer for several conferences and journals including ISIT, GlobeCom, ICC, CISS, Transactions in Communications and Entropy.
 
 **Contact**
-
-2004, route des Lucioles BP 93, 06902 Sophia Antipolis Cedex
-
-Équipe NEO, Bâtiment Lagrange, Office: L131
-
-emathan@inria.fr
+=====
+*2004, route des Lucioles BP 93, 06902 Sophia Antipolis Cedex
+*Équipe NEO, Bâtiment Lagrange, Office: L131
+*emathan@inria.fr
