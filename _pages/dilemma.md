@@ -1,7 +1,6 @@
 ---
-layout: archive
-title: "Project DILEMMA"
 permalink: /dilemma/
+title: "Project DILEMMA"
 author_profile: true
 ---
 
