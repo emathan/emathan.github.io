@@ -1,16 +1,17 @@
 ---
-permalink: /dilemma/
+layout: archive-layout-with-content
 title: "Project DILEMMA"
+permalink: /dilemma/
 author_profile: true
 ---
 
 <!-- Institutional Logos Section -->
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap; margin: 20px 0 35px 0;">
   <a href="https://www.elidek.gr/en/homepage/" target="_blank" rel="noopener noreferrer">
-    <img src="{{ '/assets/images/HFRI_LOGO_SMALL.png' | relative_url }}" alt="Hellenic Foundation for Research and Innovation (H.F.R.I.)" width="240" style="vertical-align: middle;">
+    <img src="https://www.elidek.gr/wp-content/uploads/2017/04/logo-elidek-en.png" alt="H.F.R.I." width="220">
   </a>
   <a href="https://www.di.uoa.gr/en" target="_blank" rel="noopener noreferrer">
-    <img src="{{ '/assets/images/logo_en_di.png' | relative_url }}" alt="Department of Informatics and Telecommunications, NKUA" width="180" style="vertical-align: middle;">
+    <img src="https://upload.wikimedia.org/wikipedia/el/thumb/d/d4/UoA_seal.svg/300px-UoA_seal.svg.png" alt="NKUA" width="90">
   </a>
 </div>
 
