@@ -18,17 +18,6 @@ author_profile: true
 
 </div>
 
-
-<!-- Institutional Logos Section -->
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap; margin: 20px 0 30px 0;">
-  <a href="https://www.elidek.gr/microsites/distorted-information-learning-with-empirical-minimization-and-adversaries/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.elidek.gr/wp-content/uploads/2017/04/logo-elidek-en.png" alt="H.F.R.I. DILEMMA Microsite" width="220">
-  </a>
-  <a href="https://www.di.uoa.gr/en" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/el/thumb/d/d4/UoA_seal.svg/300px-UoA_seal.svg.png" alt="NKUA" width="90">
-  </a>
-</div>
-
 ## Distorted Information Learning with Empirical Minimization and Adversaries (DILEMMA)
 
 * **Funding Agency:** Hellenic Foundation for Research and Innovation (H.F.R.I. / ΕΛ.ΙΔ.Ε.Κ.)
