@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title: "Project DILEMMA"
 permalink: /dilemma/
 author_profile: true
