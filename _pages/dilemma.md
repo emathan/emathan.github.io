@@ -3,6 +3,21 @@ permalink: /dilemma/
 title: "Project DILEMMA"
 author_profile: true
 ---
+<!-- Institutional Logos Section -->
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap; margin: 20px 0 30px 0;">
+  
+  <!-- H.F.R.I. Logo linking to Microsite -->
+  <a href="https://www.elidek.gr/microsites/distorted-information-learning-with-empirical-minimization-and-adversaries/" target="_blank" rel="noopener noreferrer">
+    <img src="{{ site.baseurl }}/images/HFRI_LOGO_SMALL.png" alt="H.F.R.I. DILEMMA Microsite" width="250">
+  </a>
+
+  <!-- NKUA Logo linking to Department -->
+  <a href="https://www.di.uoa.gr/en" target="_blank" rel="noopener noreferrer">
+    <img src="{{ site.baseurl }}/images/logo_en_di.png" alt="NKUA Informatics and Telecommunications" width="100">
+  </a>
+
+</div>
+
 
 <!-- Institutional Logos Section -->
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap; margin: 20px 0 30px 0;">
